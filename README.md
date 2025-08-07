@@ -1,4 +1,4 @@
-<h1 align="center">Hi. I'm Vinícius Barbosa</h1>
+<h1 align="center">Hi. I'm Vinícius Barbosa 👋 </h1>
 
 <p align="center">
 Full Stack Developer focused on <strong>.NET</strong> and <strong>React</strong>.<br>
@@ -6,7 +6,7 @@ Passionate about gaming and currently starting a web project using .NET.
 
 <br>
 
-My personal portfolio with complete projects is coming soon.
+My personal portfolio with complete projects is coming soon ⌛.
 </p>
 
 
