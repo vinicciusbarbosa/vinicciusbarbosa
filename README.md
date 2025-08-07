@@ -2,7 +2,7 @@
 
 <p align="center">
 Full Stack Developer focused on <strong>.NET</strong> and <strong>React</strong>.<br>
-Passionate about gaming and currently starting a web-based game project using ASP.NET + React. 
+Passionate about gaming and currently starting a web-based game project using ASP.NET + React. <br>
 My personal portfolio with complete projects is coming soon ⌛.
 </p>
 
