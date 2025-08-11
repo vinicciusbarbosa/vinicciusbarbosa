@@ -42,8 +42,8 @@ My personal portfolio with complete projects is coming soon ⌛.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viniciusbarbosa&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbarbosa&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinicciusbarbosa&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicciusbarbosa&layout=compact&theme=radical">
 </p>
 
 ---
