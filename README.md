@@ -1,14 +1,5 @@
 <h1 align="center">Hi. I'm Vinícius Barbosa 👋 </h1>
 
-<p align="center">
-Full Stack Developer focused on <strong>.NET</strong>.<br>
-Passionate about gaming and currently starting a web-based game project using ASP.NET + React. <br>
-My personal portfolio with complete projects is coming soon ⌛.
-</p>
-
-
----
-
 ## 💼 About Me
 
 - Currently specializing in .NET (C# + ASP.NET Core + EF Core)
